@@ -1,6 +1,6 @@
 ![Process](https://github.com/user-attachments/assets/498d7722-284d-4a1a-923e-09ed52aadbd5)
 
-> Digital and physical processes and process systems.
+> Digital and physical processes, including process systems.
 
 #
 
