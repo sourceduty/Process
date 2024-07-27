@@ -46,7 +46,7 @@ Individual Process Level: Detailed design of a single process.
 
 > "*Custom modelled process tools are very useful.*"
 
-> "The supersystem level emcompasses the overall architecture of a every system, including the relationships between different process architectures. This level ensures that all of the systems work together cohesively."
+> "*The supersystem level emcompasses the overall architecture of a every system, including the relationships between different process architectures. This level ensures that all of the systems work together cohesively.*"
 
 #
 
