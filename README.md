@@ -28,6 +28,7 @@ Low-level process structures delve into the detailed operations and sequences wi
 #
 ### Types of Process Architecture
 
+```
 Ecosystem or Superprocess Level: Interactions between multiple systems or organizations.
 Enterprise Level: Organization-wide processes and IT systems.
 Business Process Level: Optimization of business processes across the organization.
@@ -37,6 +38,7 @@ Subsystem Level: Groups of related processes or components within a system.
 Application Level: Specific applications and their processes.
 Component Level: Individual components or modules.
 Individual Process Level: Detailed design of a single process.
+```
 
 #
 
