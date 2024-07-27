@@ -29,7 +29,7 @@ Low-level process structures delve into the detailed operations and sequences wi
 ### Types of Process Architecture
 
 ```
-Ecosystem or Superprocess Level: Interactions between multiple systems or organizations.
+Ecosystem or Supersystem Level: Interactions between multiple systems or organizations.
 Enterprise Level: Organization-wide processes and IT systems.
 Business Process Level: Optimization of business processes across the organization.
 Organizational Level: Departmental and hierarchical workflows.
