@@ -13,7 +13,7 @@ Physical processes, on the other hand, involve tangible actions and materials. F
 Both digital and physical processes are essential in our daily lives and industries. They provide a structured approach to accomplishing tasks, whether it’s the automation of business workflows through software applications or the production of goods in a factory. Understanding and optimizing these processes can lead to greater efficiency, reduced costs, and improved quality of products and services. As technology continues to advance, the integration of digital and physical processes is becoming increasingly common, leading to innovations such as smart manufacturing and the Internet of Things (IoT), where physical devices are interconnected through digital networks to enhance productivity and functionality.
 
 #
-### Super, High, Medium and Low Process Architecture Levels:
+### Super, High, Medium and Low Process Architecture Levels
 
 Super-level, high-level, medium-level, and low-level process structures represent different layers of abstraction in system design and operation, each focusing on various aspects of system organization and detail.
 
