@@ -14,7 +14,7 @@ Both digital and physical processes are essential in our daily lives and industr
 
 #
 
-> Alex: "*I'm good at modelling different types of processes.*"
+> Alex: "*I'm very good at modelling different types of processes.*"
 
 > "*Custom modelled process tools are very useful.*"
 
