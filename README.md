@@ -65,15 +65,15 @@ This approach ensures that the system is developed systematically, starting from
 
 #
 
+Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
+
+#
+
 > Alex: "*I'm very good at modelling different types of processes.*"
 
 > "*Custom modelled process tools are very useful.*"
 
 > "*The supersystem level encompasses the overall architecture of a every system, including the relationships between different process architectures. This level ensures that all of the systems work together cohesively.*"
-
-#
-
-Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
 
 #
 ### Related Links
