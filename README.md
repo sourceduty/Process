@@ -26,7 +26,7 @@ Medium-level process structures provide a more detailed view than high-level str
 Low-level process structures delve into the detailed operations and sequences within individual processes. They focus on the precise implementation of tasks, resource management, and the execution of specific instructions within each process. Low-level structures often include detailed workflow diagrams, state machines, and other granular representations that illustrate how each component performs its functions and how data and control flow through the system. By concentrating on these specifics, low-level process structures help optimize performance, troubleshoot issues, and ensure efficient and effective operation of each part of the system.
 
 #
-### Types of Process Architecture
+### Process Architecture Abstraction 
 
 ```
 Ecosystem or Supersystem Level: Interactions between multiple systems or organizations.
