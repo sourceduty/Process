@@ -205,6 +205,8 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 [Government](https://github.com/sourceduty/Government)
 <br>
 [Topology Optimize](https://github.com/sourceduty/Topology_Optimize)
+<br>
+[Theory](https://github.com/sourceduty/Theory)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
