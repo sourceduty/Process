@@ -171,6 +171,16 @@ Ensuring data consistency and organizing the document with a clear structure are
 <br>
 </details>
 
+<details><summary>Process Diagram Software</summary>
+<br>
+
+![Calligra Gemini](https://github.com/user-attachments/assets/1abe9b49-947b-4684-baf1-24134527aacc)
+
+Calligra Gemini is a versatile software application that merges the functionality of a word processor and a graphic editor, making it ideal for users who require a flexible tool for both text and design work. Part of the broader Calligra Suite, Gemini is particularly noted for its ability to switch seamlessly between desktop and touch-based interfaces, catering to different usage scenarios like traditional computing and tablet use. This adaptability makes it a strong choice for creative professionals and students who need a lightweight but powerful tool to manage documents and visual projects.
+
+<br>
+</details>
+
 #
 
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
