@@ -217,6 +217,8 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 [Topology Optimize](https://github.com/sourceduty/Topology_Optimize)
 <br>
 [Theory](https://github.com/sourceduty/Theory)
+<br>
+[Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
